@@ -22,7 +22,7 @@ Dans ce repo vous trouverez les assets nécessaires. Vous pouvez reprendre le co
 - la raquette mesure 200px / 20px
 - la balle mesure 20px
 - les briques mesurent 60px / 30px
-- le jeu doit ressembler le plus possible (couleurs, tailles, nombre de briques, position des briques etc...) à l'exemple. 
+- le jeu doit ressembler le plus possible à l'exemple (couleurs, tailles, nombre de briques, position des briques etc...). 
 
 ### La raquette
 
