@@ -8,18 +8,21 @@ Merci de réaliser les différentes étapes **dans l'ordre**.
 
 Dans ce repo vous trouverez les assets nécessaires. Vous pouvez reprendre le code de votre pong, vous pouvez consulter la documentation Phaser. Vous n'avez évidemment pas le droit de communiquer entre vous.
 
+![screen-shot](./screen-shot.png)
+
 ## Consignes
 
 ### Créez un repo github... 
 ...intitulé "casse-brique" et envoyez moi le lien github pages en private sur discord.
 
-### Mettre en place un pong aux dimensions suivantes :
+### Mettre en place un jeu aux caractéristiques suivantes :
 
 - 800px / 800px
 - Les murs mesurent 20px.
 - la raquette mesure 200px / 20px
 - la balle mesure 20px
 - les briques mesurent 60px / 30px
+- le jeu doit ressembler le plus possible (couleurs, tailles, nombre de briques, position des briques etc...) à l'exemple. 
 
 ### La raquette
 
@@ -41,14 +44,14 @@ Dans ce repo vous trouverez les assets nécessaires. Vous pouvez reprendre le co
 
 - quand le joueur n'a plus de vie, il a perdu
 - quand cela se présente le programme affiche "Perdu" en alert. `alert("perdu");`
-- la patie recommence (3 vies, score à zéro, balle au centre, briques remises à zéro) 
+- la partie recommence (3 vies, score à zéro, balle au centre, briques remises à zéro) 
 
 
 ### gagné
 
 - quand le joueur a cassé toutes les briques, il a gagné
 - quand cela se présente le programme affiche "Gagné !" en alert.
-- la patie recommence (3 vies, score à zéro, balle au centre, briques remises à zéro) 
+- la partie recommence (3 vies, score à zéro, balle au centre, briques remises à zéro) 
 
 
 
